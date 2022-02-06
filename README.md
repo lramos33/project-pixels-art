@@ -27,7 +27,7 @@ Execute o arquivo index.html
 
 Neste projeto foi implementado uma página web que contém uma paleta de cores funcional que pode ser utilizada para criar desenhos em pixels. Para isto, foi utilizado apenas `html`, `css` e `javascript`.
 
-![image]()
+![image](recording.gif)
 
 ## 📝 Requisitos do projeto
 
